@@ -1,7 +1,7 @@
 
 ## Developing projects all hands on deck is my prefered way of learning 🛫
 
-  ## Currently:
+  ## What I'm doing right now:
 
   ### - Doing an Internship as a Laravel fullstack developer
   ### - Focusing on developing web-apps as a fullstack developer and learning as many tools of the trade as possible. 
